@@ -1,0 +1,5 @@
+main.exe
+.vscode
+
+# comment in gitignore is use " # "
+# *.exe is for tow file or other file that have exe it will remove all
